@@ -1,11 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
-<h1 align="center">Hi, I'm Sri<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.gif" alt="🐬" width="32" height="32">
-</picture></h1>
+<h1 align="center">Hi, I'm Sri <span><img width="100" src="https://github.com/mihosri/mihosri/assets/113211399/a104f8c9-e35d-48e1-a62d-eca1050371be" alt="Bee GIF"></span></h1> 
 <h3 align="center">A passionate software developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*PXf5ge7QCN9Ga_CL.gif">
-
 
 - 🔭 I’m currently working on **Petals and Prose**
 
