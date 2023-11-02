@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
-<h1 align="center">Hi, I'm Sri <picture>
+<h1 align="center">Hi, I'm Sri<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f42c/512.gif" alt="🐬" width="32" height="32">
 </picture></h1>
